@@ -20,7 +20,7 @@ shipping_manifest["oil paintings"]
 end
 
 def adding
-  shipping_manifest={ "oil paintings" =>4, "porcelain vases"=>2, "whale bone corsets"=>5}
+  shipping_manifest={ "oil paintings" =>3, "porcelain vases"=>2, "whale bone corsets"=>5}
   hash ={"muskets"=> 2}
   # add 2 muskets to the shipping_manifest hash below
   shipping_manifest["muskets"]=2
